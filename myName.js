@@ -14,4 +14,6 @@ journal.push(dmOver9000);
 
 var hello = "hello";
 
+journal.push(dmOver9000);
+
 journal.push(hello);
