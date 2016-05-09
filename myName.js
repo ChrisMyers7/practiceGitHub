@@ -11,3 +11,7 @@ journal.push(dm1112);
 var dmOver9000 = "the most important message ever";
 
 journal.push(dmOver9000);
+
+var hello = "hello";
+
+journal.push(hello);
